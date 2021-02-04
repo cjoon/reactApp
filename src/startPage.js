@@ -5,7 +5,7 @@ export default class startPage extends Component {
   render() {
     return (
       <View>
-        <Text>first page!</Text>
+        <Text>This is firstPage!!</Text>
       </View>
     );
   }
